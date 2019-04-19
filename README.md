@@ -15,3 +15,7 @@ This repository contains a Jupyter Notebooks collection showing examples of the 
 
 * [pydap-subsetting.ipynb](https://nbviewer.jupyter.org/github/ec-intaros/pydap-use-cases/blob/master/notebooks/pydap-subsetting.ipynb) 
 * [pydap-filtering.ipynb](https://nbviewer.jupyter.org/github/ec-intaros/pydap-use-cases/blob/master/notebooks/pydap-filtering.ipynb) 
+
+## Using the Hyrax geogrid() Server Side Processing Function
+
+* [pydap-hyrax-geogrid.ipynb](https://nbviewer.jupyter.org/github/ec-intaros/pydap-use-cases/blob/master/notebooks/pydap-hyrax-geogrid.ipynb) 
