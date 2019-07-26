@@ -19,3 +19,7 @@ This repository contains a Jupyter Notebooks collection showing examples of the 
 ## Using the Hyrax geogrid() Server Side Processing Function
 
 * [pydap-hyrax-geogrid.ipynb](https://nbviewer.jupyter.org/github/ec-intaros/pydap-use-cases/blob/master/notebooks/pydap-hyrax-geogrid.ipynb) 
+
+## Hyrax Dynamic Aggregation function via NcML 
+
+* [pydap-hyrax-aggregation.ipynb](https://nbviewer.jupyter.org/github/ec-intaros/pydap-use-cases/blob/master/notebooks/pydap-hyrax-aggregation.ipynb) 
